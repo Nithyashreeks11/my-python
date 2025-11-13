@@ -1,0 +1,4 @@
+# the fuction fahrenheit to celsius
+def fahrenheittocelsius(f):
+  return(f-32)*9/5
+fahrenheittocelsius(200)
